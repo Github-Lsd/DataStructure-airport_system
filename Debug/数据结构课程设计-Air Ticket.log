@@ -1,0 +1,8 @@
+﻿  airport_system.cpp
+  bookingTicket.cpp
+  util.cpp
+  正在生成代码...
+F:\Lin\数据结构\数据结构课程设计\数据结构课程设计-航空客运系统\bookingTicket.cpp(661,8): warning C4101: “airplane”: 未引用的局部变量
+F:\Lin\数据结构\数据结构课程设计\数据结构课程设计-航空客运系统\util.cpp(26): warning C4172: 返回局部变量或临时变量的地址: ch
+F:\Lin\数据结构\数据结构课程设计\数据结构课程设计-航空客运系统\bookingTicket.cpp(869): warning C4715: “RefundService”: 不是所有的控件路径都返回值
+  数据结构课程设计-Air Ticket.vcxproj -> F:\Lin\数据结构\数据结构课程设计\数据结构课程设计-航空客运系统\Debug\数据结构课程设计-Air Ticket.exe
